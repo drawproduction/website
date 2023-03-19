@@ -6,7 +6,7 @@
 
 a {
     text-decoration: none;
-    color: #2F2F2F;
+    color: #D178FA;
     border-bottom: 1px solid #2F2F2F;
 }
 
@@ -19,9 +19,10 @@ a:hover {
 
 body {
     font-size: 16px;
-    padding: 20px;
+    padding: 20px; 
 
     font-family: 'Open Sans', sans-serif;
+    color: #D178FA;
 }
 
 header {
