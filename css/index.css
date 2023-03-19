@@ -24,6 +24,14 @@ body {
     font-family: 'Open Sans', sans-serif;
 }
 
+header {
+    padding: 20px 0;
+}
+
+main {
+    padding: 20px 0;
+}
+
 .social, .footer {
     padding: 5px 0;
 }
