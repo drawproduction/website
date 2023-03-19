@@ -13,9 +13,13 @@ a:hover {
     border-bottom: none;
 }
 
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Roboto+Mono:wght@300&display=swap');
+
+
 body {
-    font-family: Arial, Helvetica, sans-serif;
     font-size: 16px;
+
+    font-family: 'Open Sans', sans-serif;
 }
 
 header {
