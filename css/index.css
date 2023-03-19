@@ -18,11 +18,19 @@ body {
     font-size: 16px;
 }
 
+header {
+    padding: 20px;
+}
+
+main {
+    padding: 20px;
+}
+
 footer {
     border-top: 1px solid #2F2F2F;
     padding: 20px;
 }
 
 .social, .footer {
-    padding: 10px 0;
+    padding: 5px 0;
 }
